@@ -1,0 +1,27 @@
+# Logs
+/tareas/logs
+/tareas/*.log
+/tareas/npm-debug.log*
+/tareas/yarn-debug.log*
+/tareas/yarn-error.log*
+/tareas/pnpm-debug.log*
+/tareas/lerna-debug.log*
+
+/tareas/node_modules
+/tareas/dist
+/tareas/dist-ssr
+/tareas/*.local
+
+# Editor directories and files
+/tareas/.vscode/*
+/tareas/!.vscode/extensions.json
+/tareas/.idea
+/tareas/.DS_Store
+/tareas/*.suo
+*/tareas/.ntvs*
+/tareas/*.njsproj
+/tareas/*.sln
+/tareas/*.sw?
+/servidor/node_modules
+/servidor/variables.env
+/servidor/package-lock.json
